@@ -6,7 +6,7 @@ sidebar_position: 3
 
 :::tip
 在此已假定你通过了审核，拿到了你的**通行证**。    
-如果你还未申请，请查看[申请权限](./how_to_apply.html)
+如果你还未申请，请查看[申请权限](./how_to_apply)
 :::
 
 

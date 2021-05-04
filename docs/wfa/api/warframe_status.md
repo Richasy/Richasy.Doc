@@ -23,7 +23,7 @@ WFA的服务器会定时请求国外的源数据，存在本地，国内用户�
 
 `https://data.richasy.cn/wfa/basic/cetusStatus?platform=ps4`
 
-平台可选值参照[游戏平台可选值](/document/wfa/data#游戏平台可选值)，不写的话默认为PC。
+平台可选值参照[游戏平台可选值](./home#游戏平台可选值)，不写的话默认为PC。
 
 ## 全部游戏信息
 

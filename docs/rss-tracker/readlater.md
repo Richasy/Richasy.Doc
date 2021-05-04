@@ -16,9 +16,9 @@ sidebar_position: 7
 
 你需要在`设置`->`其它服务集成`中，选择性地登录**Pocket**或**Instapaper**。
 
-![准备](https://i.loli.net/2020/08/07/VnKb6B3oCMicN4Z.png)
+![准备](/img/rss-stalker/readlater-prepare.png)
 
-对于Pocket，采用OAuth网络授权登录，如果出现了**无法访问该服务**的提示，请参照[UWP中翻墙授权的特殊操作](./authorize.html)进行操作。
+对于Pocket，采用OAuth网络授权登录，如果出现了**无法访问该服务**的提示，请参照[翻墙进行服务授权](./authorize)进行操作。
 
 对于Instapaper，你需要提供用户名和密码。用户名的位置也可以填邮箱。密码是可选的，因为按照Instapaper文档的说明，有很多用户并没有设置密码。
 
@@ -26,8 +26,8 @@ sidebar_position: 7
 
 在文章详情页，你可以在右上侧的溢出菜单中看到这两个分享服务的按钮，选择你已登录的服务即可。
 
-![点击](https://i.loli.net/2020/08/07/UY52glIGT46VFCM.png)
+![点击](/img/rss-stalker/readlater-btn.png)
 
 点击对应按钮后，你可以进行一些简单的配置：
 
-![配置](https://i.loli.net/2020/08/07/1cLtZ6SPCuH8djq.png)
+![配置](/img/rss-stalker/readlater-share.png)

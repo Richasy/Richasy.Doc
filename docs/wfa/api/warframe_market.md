@@ -18,7 +18,7 @@ API的数据来源为[Warframe Market](https://warframe.market)，经由开发�
 
 `https://data.richasy.cn/wfa/basic/cetusStatus?platform=ps4`
 
-平台可选值参照[游戏平台可选值](/document/wfa/data#游戏平台可选值)，不写的话默认为PC。
+平台可选值参照[游戏平台可选值](./home#游戏平台可选值)，不写的话默认为PC。
 
 ## 查询代码
 

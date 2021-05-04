@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # 播客说明
 
-![](https://i.loli.net/2020/08/02/s9gW4wIjuJOeKTm.png)
+![](/img/rss-stalker/podcast.png)
 
 由于应用主要是以阅读RSS订阅源为主，对于播客的支持有限。只能说是大家都是用RSS的方式传播，就顺手内置了一个播放器用以播放文章携带的音频罢了。
 

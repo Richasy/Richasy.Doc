@@ -10,19 +10,19 @@ sidebar_position: 3
 
 1. 列表视图
 
-    ![](https://i.loli.net/2020/08/01/IrS7gxuLG1o9qYK.png)
+    ![](/img/rss-stalker/home.png)
 
     列表视图的一大好处就是在于文章列表可以与文章详情并排展示，切换更为方便
 
 2. 网格视图
 
-    ![](https://i.loli.net/2020/08/01/42CENZj8L3YQgq7.png)
+    ![](/img/rss-stalker/grid.png)
 
     网格视图可以展示更多的摘要信息，但是文章详情则需要进入下一级页面查看。
 
-    切换可以通过头部的`更多按钮`（三个点）来选择。
+**切换可以通过头部的`更多按钮`（三个点）来选择。**
 
-    ![](https://i.loli.net/2020/08/01/NL4ypEC9o5gitrY.png)
+![](/img/rss-stalker/list-menu.png)
 
 ### 全部/未读切换
 
@@ -40,7 +40,7 @@ sidebar_position: 3
 
 应用重新设计了阅读器的右键菜单，考虑到阅读外文订阅源的需求，强化了划词翻译功能：
 
-![](https://i.loli.net/2020/08/01/k6cO1naZuUiW5Ql.png)
+![](/img/rss-stalker/text-flyout.png)
 
 对于单个词汇，可以显示读音（还附带音频，如果有的话），词性，翻译等实用信息，这部分信息来自金山词霸。
 
@@ -54,21 +54,21 @@ P.S. 相比于V1版，去除了百度翻译的集成，去除了全文翻译（�
 
 #### 流畅阅读
 
-![](https://i.loli.net/2020/08/01/ODV3Ay9kWBXQPJG.png)
+![](/img/rss-stalker/next-flyout.png)
 
 应用添加了一个新的功能，用于在当前文章滚动到底部时弹出下一篇文章的快捷入口，点击即可切换至下一篇文章。
 
 #### 文章收集服务
 
-应用提供了Pocket和Instapaper作为文章收集服务，你可以将喜欢的文章分享至对应服务中，详情可以查看[稍后阅读服务说明](./readlater.html)。
+应用提供了Pocket和Instapaper作为文章收集服务，你可以将喜欢的文章分享至对应服务中，详情可以查看[稍后阅读服务说明](./readlater)。
 
 #### 其它设置
 
-![](https://i.loli.net/2020/08/08/Quf96jJCnFDERLS.png)
+![](/img/rss-stalker/schema-flyout.png)
 
 1. 常规操作
 
-    `在浏览器打开`、`添加至收藏夹或稍后阅读（看平台是否支持）`、`设置已读/未读（✔❌）`，这些都是常规操作，点击即可，在此不再赘述。
+    `在浏览器打开`、`添加至收藏夹或稍后阅读（看平台是否支持）`、`设置已读/未读（✔✖）`，这些都是常规操作，点击即可，在此不再赘述。
 
 2. 阅读全文
 

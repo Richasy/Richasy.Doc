@@ -59,7 +59,7 @@ sidebar_position: 10
 ### [Fever](https://feedafever.com/api)
 
 :::tip
-Fever是一种API标准，并不是RSS服务，适配该标准的RSS服务有[TinyTinyRSS](https://tt-rss.org/), [FreshRSS](https://freshrss.org/)等，关于Fever的详细介绍，请查看[Fever说明](./fever.html)
+Fever是一种API标准，并不是RSS服务，适配该标准的RSS服务有[TinyTinyRSS](https://tt-rss.org/), [FreshRSS](https://freshrss.org/)等，关于Fever的详细介绍，请查看[Fever说明](./fever)
 :::
 
 支持操作：

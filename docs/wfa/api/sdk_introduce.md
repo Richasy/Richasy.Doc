@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# WFA Csharp SDK
+# WFA CSharp SDK
 
 ## 关于 Warframe Alerting Prime
 
@@ -26,7 +26,7 @@ Nuget: [下载地址](https://www.nuget.org/packages/Richasy.WFA.Sdk/1.0.0)
 
 ### 授权
 
-使用本SDK，您需要申请资格认证，具体申请方式请参考[这篇文档](./authorize.html)。
+使用本SDK，您需要申请资格认证，具体申请方式请参考[这篇文档](./authorize)。
 
 ### 开始
 

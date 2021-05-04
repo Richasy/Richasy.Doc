@@ -56,10 +56,10 @@ sidebar_position: 5
 出售和买入的流程大致一致，这里以发布已开紫卡出售信息为例：
 
 1. 进入《我的紫卡》模块，选择`出售紫卡`->`已开紫卡`
-2. 查找紫卡对应的武器
-    ![04.png](https://i.loli.net/2020/02/01/Rfq4kbtVLdwFz52.png)
-3. 在紫卡详情界面，填写相应的表单，右上角显示了当前武器紫卡的一个平均价格（由Warframe官方提供），可作为普通卡的参考
-    ![05.png](https://i.loli.net/2020/02/01/BRziqrUkNQEo5FC.png)
+2. 查找紫卡对应的武器  
+    ![04.png](https://i.loli.net/2020/02/01/Rfq4kbtVLdwFz52.png)  
+3. 在紫卡详情界面，填写相应的表单，右上角显示了当前武器紫卡的一个平均价格（由Warframe官方提供），可作为普通卡的参考  
+    ![05.png](https://i.loli.net/2020/02/01/BRziqrUkNQEo5FC.png)  
 4. 点击`发布`，发布紫卡。
 
 :::tip

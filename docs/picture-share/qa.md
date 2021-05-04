@@ -20,7 +20,7 @@ sidebar_position: 4
 
 没问题，但无论如何，必须先完成OneDrive的授权工作。
 
-授权码的修改参见[修改AuthKey](use.html#其他问题)
+授权码的修改参见[获取OneDrive中指定文件夹的AuthKey](./use)
 
 ## 我打不开OneDrive的在线网站
 

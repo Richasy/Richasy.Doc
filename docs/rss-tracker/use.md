@@ -18,6 +18,8 @@ sidebar_position: 1
 
 **关于应用的各个功能模块的介绍，你可以在侧边栏选择对应的页面进入**
 
+![首页](/img/rss-stalker/home.png)
+
 :::tip
 如果旧版更符合你的使用习惯，那么您可以前往[Github](https://github.com/Richasy/RSS-Stalker-V1)，我目前已经开源了V1版本，并提供了侧加载包，你可以下载它，并按照项目说明进行操作
 :::

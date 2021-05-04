@@ -8,7 +8,7 @@ sidebar_position: 8
 
 它看起来像一个独立的浏览器窗口:
 
-![](https://i.loli.net/2020/08/02/ByGZejgMpvdFhW1.png)
+![](/img/rss-stalker/auth.png)
 
 它是以IE作为浏览器核心的，所以你可能会发现，即便你开了VPN或代理，在通过该授权窗口访问外网时依然会出现`无法连接服务`的提示，这个时候，请按以下步骤操作：
 
@@ -20,11 +20,11 @@ sidebar_position: 8
 
 出现无法访问服务的原因在于UWP特有的本地网络环回限制，它使得UWP应用无法走本地代理通道，我们要做的就是解除这个限制。
 
-我在Github找到了一个小工具，Fork之后上传了一个独立包，你可以直接下载：
+我尝试做了个小工具，顺带测一下Project Reunion，你可以直接下载（包比较大）：
 
-[Windows loopback manager](https://github.com/Richasy/Windows-Loopback-Exemption-Manager/releases/tag/1.0.0)
+[Loopback Manager](https://github.com/Richasy/LoopbackManager/releases/tag/v0.0.1)
 
-如果你难以访问Github，也可以从百度网盘下载：
+如果你难以访问Github，或者想使用精简版（包很小），也可以从百度网盘下载：
 
 [百度网盘](https://pan.baidu.com/s/10r4raod7IdZUzxKlybI3mw)，提取码 2s3c
 
@@ -36,7 +36,7 @@ sidebar_position: 8
 
 下载之后打开该exe文件（需要管理员权限），在搜索栏中输入`auth`，你能看到下列的一些应用服务：
 
-![](https://i.loli.net/2020/08/02/4aZEjrG6ITLybs3.png)
+![](/img/rss-stalker/loopback.png)
 
 *当然，你看到的可能没这么多，也许只有一个，总之是这种格式的应用服务。*
 
