@@ -3,6 +3,10 @@ sidebar_position: 2
 title: 更新历史
 ---
 
+## V2.0.0
+
+应用重构，使用 Windows App SDK 重写，为 Windows 11 设计。
+
 ## v1.2.7
 
 ### 修复及调整

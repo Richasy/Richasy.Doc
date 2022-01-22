@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # 软件介绍
 
+:::warning
+UWP 版本已经过时，请升级至 Windows 11，使用 [干净阅读 桌面版](./desktop)
+:::
+
 :::tip
 下载地址：[微软应用商店](https://www.microsoft.com/store/apps/9MV65L2XFCSK)
 :::
