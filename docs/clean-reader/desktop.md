@@ -4,14 +4,24 @@ sidebar_position: 1
 
 # Windows 桌面版介绍
 
-:::tip
-干净阅读在最初是 UWP 应用，而随着 Windows 11 的发布，微软也推出了新的开发框架，即 Windows App SDK，其 UI 采用 WinUI3 框架。  
-为符合时代发展需要，故在 2022 年使用新框架重构了整个应用，使其在 Windows 桌面端焕发新的生机。
-:::
-
 干净阅读采用了微软 Fluent Design，为 Windows 11 设计，整体操作符合桌面操作习惯。
 
 目前干净阅读支持 TXT，EPUB 和网络小说阅读，适合喜欢阅读小说的人群。
+
+应用已在 Github 开源，包括应用本体及阅读器核心，还有重制前的旧版： [Clean Reader](https://github.com/Clean-Reader)
+
+你可以在商店购买稳定版本：[Microsoft Store](https://www.microsoft.com/en-us/p/clean-reader/9mv65l2xfcsk)
+
+:::tip
+新版的干净阅读为了尽可能完善地支持本地阅读，使用了 `broadFileSystemAccess` 权限。该权限用于通过路径直接读取文件内容，而不必经过用户交互。
+这是一个敏感的权限，所以应用选择开源以示坦诚。
+:::
+
+:::warning
+由于开源，所以将关闭商店的试用版。想要试用应用，你可以在 [Github Release](https://github.com/Clean-Reader/CleanReader.Uwp/releases) 下载侧加载包，并按照仓库自述文件安装。
+由于使用了不同的证书，侧加载包和商店版本可以共存。
+Github会进行较为频繁的更新，而商店版本一月更新一次。两者一个为尝鲜版，一个为稳定版。如果你喜欢这个应用，可以在商店购买以支持作者哟~
+:::
 
 ## 书库
 
@@ -19,6 +29,7 @@ sidebar_position: 1
 
 :::tip
 如果将该书库文件夹放置于 OneDrive 等云盘中，就可以借助云盘自身特性实现云同步，创建一个能在多台设备读取的共享书库。
+但是由于 UWP 平台的限制，你必须开启应用的文件系统访问权限才可以访问位于 OneDrive 中的书库
 :::
 
 ![书库选择](/img/clean-reader/startup.png)
