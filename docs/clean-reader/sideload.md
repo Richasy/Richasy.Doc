@@ -1,6 +1,6 @@
 # 侧加载包的安装
 
-本文将详细讲述 `干净阅读` 的侧加载安装过程，请按照下文所述一步步操作，在安装中遇到的问题，可以在 [干净阅读论坛](https://github.com/Clean-Reader/CleanReader.Uwp/discussions) 中讨论。
+本文将详细讲述 `干净阅读` 的侧加载安装过程，请按照下文所述一步步操作，在安装中遇到的问题，可以在 [干净阅读论坛](https://github.com/Clean-Reader/CleanReader.Desktop/discussions) 中讨论。
 
 ## 准备
 
@@ -20,7 +20,7 @@
 
 ## 下载应用
 
-1. 进入 Github 的 [Release](https://github.com/Clean-Reader/CleanReader.Uwp/releases) 页面。
+1. 进入 Github 的 [Release](https://github.com/Clean-Reader/CleanReader.Desktop/releases) 页面。
 
     ![release_page.png](https://pic.dogimg.com/2022/04/09/6250ca1c65551.png)
 
@@ -28,9 +28,9 @@
 
     |架构|说明|示例包名|
     |-|-|-|
-    |x64|64 位平台，是现在的主流平台。在设置的**关于**页面中的 `设备规格` 区块可以查看当前的系统类型|CleanReader.Uwp_{版本号}_x64.zip|
-    |x86|32 位平台，确认方法可以参照 x64 进行|CleanReader.Uwp_{版本号}_x86.zip|
-    |ARM64|64 位 ARM 架构，Surface Pro X 是典型设备|CleanReader.Uwp_{版本号}_ARM64.zip|
+    |x64|64 位平台，是现在的主流平台。在设置的**关于**页面中的 `设备规格` 区块可以查看当前的系统类型|CleanReader.Desktop_{版本号}_x64.zip|
+    |x86|32 位平台，确认方法可以参照 x64 进行|CleanReader.Desktop_{版本号}_x86.zip|
+    |ARM64|64 位 ARM 架构，Surface Pro X 是典型设备|CleanReader.Desktop_{版本号}_ARM64.zip|
 
     *注：ARM 架构在 UWP 中通常指 Windows Phone 设备，目前已不再支持。*
 
