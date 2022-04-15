@@ -18,7 +18,7 @@ sidebar_position: 1
 :::
 
 :::warning
-由于开源，所以将关闭商店的试用版。想要试用应用，你可以在 [Github Release](https://github.com/Clean-Reader/CleanReader.Uwp/releases) 下载侧加载包，并按照仓库自述文件安装。  
+由于开源，所以将关闭商店的试用版。想要试用应用，你可以在 [Github Release](https://github.com/Clean-Reader/CleanReader.Desktop/releases) 下载侧加载包，并按照仓库自述文件安装。  
 由于使用了不同的证书，侧加载包和商店版本可以共存。  
 Github会进行较为频繁的更新，而商店版本一月更新一次。两者一个为尝鲜版，一个为稳定版。如果你喜欢这个应用，可以在商店购买以支持作者哟~
 :::
@@ -170,6 +170,10 @@ Github会进行较为频繁的更新，而商店版本一月更新一次。两�
 应用会记录你在每一本书上的阅读时长，并通过该界面展示出来，你使用应用看的书越多，看书的时间越久，这个界面就越丰富：
 
 ![时长](/img/clean-reader/duration.png)
+
+点击书籍卡片，你可以看到详细的阅读时间段记录，它可能不太直观，但在未来会提供导出和报表生成的功能。
+
+![时长详情](/img/clean-reader/durationDetail.png)
 
 ## 快捷键
 

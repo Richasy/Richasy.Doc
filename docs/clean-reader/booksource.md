@@ -6,6 +6,12 @@ sidebar_position: 3
 
 尽管已经有 [阅读](https://alanskycn.gitee.io/teachme/Rule/source.html) 珠玉在前，但通过查看其源码，它只有在 JAVA 环境中才能发挥出全部实力，.NET 强行兼容会给我的心智带来巨大负担，所以在经过种种尝试后，我还是选择创建一个功能也许没那么丰富，但是没有平台兼容性问题的书源规则。
 
+:::tip
+定义书源前，请在仓库 [CleanReader.Sources](https://github.com/Clean-Reader/CleanReader.Sources) 中查看是否已经有其它人定义了该书源。
+
+如果没有，十分欢迎你定义书源后分享到这个仓库中。
+:::
+
 ## 书源前置知识
 
 1. 你需要对 JSON 有着基本的了解
