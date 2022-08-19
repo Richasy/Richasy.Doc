@@ -48,12 +48,6 @@ module.exports = {
           label: 'Markdown Lite',
         },
         {
-          type: 'doc',
-          docId: 'picture-share/about',
-          position: 'left',
-          label: 'Picture Share',
-        },
-        {
           href: 'https://github.com/Richasy',
           label: 'GitHub',
           position: 'right',
